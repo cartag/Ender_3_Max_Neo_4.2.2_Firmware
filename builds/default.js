@@ -144,7 +144,11 @@ module.exports = {
             "DWIN_CREALITY_LCD_JYERSUI",
 
             // Fans
-            "FAN_SOFT_PWM"
+            "FAN_SOFT_PWM",
+            
+            // Car Tag's Additions 
+            // Nozzle Park Feature
+            "NOZZLE_PARK_FEATURE"
         ],
         disable: [
             // Z Probe Options
@@ -199,7 +203,12 @@ module.exports = {
             "SQUARE_WAVE_STEPPING",
 
             // Host
-            "HOST_ACTION_COMMANDS"
+            "HOST_ACTION_COMMANDS",
+            
+            // Car Tag's Additions 
+            // Nozzle Park Feature
+            "ADVANCED_PAUSE_FEATURE",
+            "PARK_HEAD_ON_PAUSE"
         ],
         disable: []
     }
