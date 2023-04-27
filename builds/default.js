@@ -144,11 +144,8 @@ module.exports = {
             "DWIN_CREALITY_LCD_JYERSUI",
 
             // Fans
-            "FAN_SOFT_PWM",
+            "FAN_SOFT_PWM"
             
-            // Car Tag's Additions 
-            // Nozzle Park Feature
-            "NOZZLE_PARK_FEATURE"
         ],
         disable: [
             // Z Probe Options
