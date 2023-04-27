@@ -1,7 +1,7 @@
 module.exports = {
     board_env: "STM32F103RE_creality",
     meta: {
-        stable_name: "ender_3_max_neo-HW_4.2.2-{{marlin_version}}-{{uid}}",
+        stable_name: "e3mn-HW_4.2.2-{{marlin_version}}-{{uid}}",
         nightly_name: "ender_3_max_neo-HW_4.2.2-{{current_date}}-{{uid}}"
     },
     based_on: {
