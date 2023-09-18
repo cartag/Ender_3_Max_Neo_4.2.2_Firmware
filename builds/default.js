@@ -204,7 +204,6 @@ module.exports = {
             
             // Car Tag's Additions 
             // Nozzle Park Feature
-            "ADVANCED_PAUSE_FEATURE",
             "PARK_HEAD_ON_PAUSE"
         ],
         disable: []
